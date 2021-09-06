@@ -127,5 +127,5 @@ Finally, we have created a project in which we have detected some faces and then
 [![Twitter Follow](https://img.shields.io/twitter/follow/HrugVed_?style=social)](https://twitter.com/HrugVed_)
 </div>
 </br>
-<hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
-</br>
+
+---
